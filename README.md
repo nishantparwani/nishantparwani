@@ -81,7 +81,7 @@ beds, blood and equipment with one-click transfers.
 Scan yourself in 3D, play as yourself in 2D, steer by waving your hand at an Arduino. Mesh segmentation with a tiny
 neural net trained on real human scans — on a CPU.
 
-<a href="https://github.com/nishantparwani/Avatarquest"><img src="https://raw.githubusercontent.com/nishantparwani/Avatarquest/main/docs/screenshots/01_gameplay.png"></a>
+<a href="https://github.com/nishantparwani/Avatarquest"><img src="https://raw.githubusercontent.com/nishantparwani/Avatarquest/main/docs/screenshots/00_pipeline.png"></a>
 
 `PyTorch` `pygame` `Arduino` `trimesh`
 
